@@ -19,7 +19,7 @@ function App() {
       <header className="App-header" style={{position: 'relative'}}>
         <div style={{}}>
         <img class="logo" src={FvmLogo} style={{width: '100%'}} />
-          <h2 class="play">The "If you are game..." Quest</h2>
+          <h2 class="play">"If you are game..." Quest</h2>
         </div>
       </header>
 
