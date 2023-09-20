@@ -50,7 +50,7 @@ function App() {
               <p><i class="icon start" style={{display: 'inline-block', height: '3px'}}/> Create a Metamask Wallet</p>
               <br/>
 
-              <img class="center" src={MetamaskAnime} style={{display: 'inline-block', width: '80%'}} />
+              <img class="center-screen" src={MetamaskAnime} style={{display: 'inline-block', width: '80%'}} />
 
               <div style={{margin: '1rem'}} class="buttons">
                 <a href="https://metamask.io" target="_blank">
@@ -61,7 +61,7 @@ function App() {
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: '100px'}}/> Go to Chainlist.com and add <a>"Filecoin Calibration Net"</a></p>
               <br/>
 
-              <img class="center" src={Screen1} style={{}} />
+              <img class="center-screen" src={Screen1} style={{}} />
               
               <div style={{margin: '1rem'}} class="buttons">
                 <a href="https://chainlist.org/?testnets=true&search=calibration" target="_blank">
@@ -72,7 +72,7 @@ function App() {
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/>  Go to <a href="https://faucet.calibration.fildev.network/funds.html" target="_blank">Filecoin Faucet</a> to request for some test Filecoins (tFIL)</p>
               <br/>
 
-              <img class="center" src={Screen2} style={{display: 'inline-block'}} />
+              <img class="center-screen" src={Screen2} style={{display: 'inline-block'}} />
 
               <div style={{margin: '1rem'}} class="buttons">
                 
@@ -97,22 +97,22 @@ function App() {
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/> Create a new ERC20 contract</p>
               <br/>
 
-              <img class="center" src={Screen3} style={{display: 'inline-block', height: '100px'}} />
+              <img class="center-screen" src={Screen3} style={{display: 'inline-block', height: '100px'}} />
               <br/>
 
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/> Rename the coin to whatever name you like e.g. <a>JenksCoin</a></p>
               <br/>
 
-              <img class="center" src={Screen4} style={{display: 'inline-block', width: '80%'}} />
+              <img class="center-screen" src={Screen4} style={{display: 'inline-block', width: '80%'}} />
               
               
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/> After deployment copy and save the <a>deployed Smart Contract address via "Injected Provider Metamask</a></p>
               <br/>
 
-              <img class="center" src={Screen5} style={{display: 'inline-block', width: '80%'}} />
+              <img class="center-screen" src={Screen5} style={{display: 'inline-block', width: '80%'}} />
               <br />
 
-              <img class="center" src={Screen6} style={{display: 'inline-block', width: '80%'}} />
+              <img class="center-screen" src={Screen6} style={{display: 'inline-block', width: '80%'}} />
               <br />
 
             </div>
@@ -122,19 +122,19 @@ function App() {
               <label class="title">Step 3</label>
               <p><i class="icon start" style={{display: 'inline-block', height: '3px'}}/> Go to Metamask Wallet <a>manually add a new token</a> asset</p>
               
-              <img class="center" src={Screen7} style={{display: 'inline-block', width: '80%'}} />
+              <img class="center-screen" src={Screen7} style={{display: 'inline-block', width: '80%'}} />
               <br />
 
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/> Give it a money code e.g. <a>JKC</a></p>
               <br />
 
-              <img class="center" src={Screen8} style={{display: 'inline-block', width: '80%'}} />
+              <img class="center-screen" src={Screen8} style={{display: 'inline-block', width: '80%'}} />
               <br />
 
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/> Show your <a>Metamask wallet screen</a> with the balance of your crypto token there</p>
               <br />
 
-              <img class="center" src={Screen9} style={{display: 'inline-block', width: '80%'}} />
+              <img class="center-screen" src={Screen9} style={{display: 'inline-block', width: '80%'}} />
               <br />
 
               <div style={{margin: '1rem'}} class="buttons">
