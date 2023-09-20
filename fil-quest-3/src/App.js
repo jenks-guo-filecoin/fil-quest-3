@@ -50,7 +50,7 @@ function App() {
               <p><i class="icon start" style={{display: 'inline-block', height: '3px'}}/> Create a Metamask Wallet</p>
               <br/>
 
-              <img src={MetamaskAnime} style={{display: 'inline-block'}} />
+              <img class="center" src={MetamaskAnime} style={{display: 'inline-block', width: '80%'}} />
 
               <div style={{margin: '1rem'}} class="buttons">
                 <a href="https://metamask.io" target="_blank">
@@ -58,7 +58,7 @@ function App() {
                 </a>
               </div>
 
-              <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/> Go to Chainlist.com and add <a>"Filecoin Calibration Net"</a></p>
+              <p><i class="icon arrow-right" style={{display: 'inline-block', height: '100px'}}/> Go to Chainlist.com and add <a>"Filecoin Calibration Net"</a></p>
               <br/>
 
               <img class="center" src={Screen1} style={{}} />
@@ -97,22 +97,22 @@ function App() {
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/> Create a new ERC20 contract</p>
               <br/>
 
-              <img src={Screen3} style={{display: 'inline-block'}} />
+              <img class="center" src={Screen3} style={{display: 'inline-block', height: '100px'}} />
               <br/>
 
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/> Rename the coin to whatever name you like e.g. <a>JenksCoin</a></p>
               <br/>
 
-              <img src={Screen4} style={{display: 'inline-block'}} />
+              <img class="center" src={Screen4} style={{display: 'inline-block', width: '80%'}} />
               
               
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/> After deployment copy and save the <a>deployed Smart Contract address via "Injected Provider Metamask</a></p>
               <br/>
 
-              <img src={Screen5} style={{display: 'inline-block'}} />
+              <img class="center" src={Screen5} style={{display: 'inline-block', width: '80%'}} />
               <br />
 
-              <img src={Screen6} style={{display: 'inline-block'}} />
+              <img class="center" src={Screen6} style={{display: 'inline-block', width: '80%'}} />
               <br />
 
             </div>
@@ -122,19 +122,19 @@ function App() {
               <label class="title">Step 3</label>
               <p><i class="icon start" style={{display: 'inline-block', height: '3px'}}/> Go to Metamask Wallet <a>manually add a new token</a> asset</p>
               
-              <img src={Screen7} style={{display: 'inline-block'}} />
+              <img class="center" src={Screen7} style={{display: 'inline-block', width: '80%'}} />
               <br />
 
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/> Give it a money code e.g. <a>JKC</a></p>
               <br />
 
-              <img src={Screen8} style={{display: 'inline-block'}} />
+              <img class="center" src={Screen8} style={{display: 'inline-block', width: '80%'}} />
               <br />
 
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/> Show your <a>Metamask wallet screen</a> with the balance of your crypto token there</p>
               <br />
 
-              <img src={Screen9} style={{display: 'inline-block'}} />
+              <img class="center" src={Screen9} style={{display: 'inline-block', width: '80%'}} />
               <br />
 
               <div style={{margin: '1rem'}} class="buttons">
