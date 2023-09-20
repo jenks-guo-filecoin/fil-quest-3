@@ -61,7 +61,7 @@ function App() {
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: '100px'}}/> Go to Chainlist.com and add <a>"Filecoin Calibration Net"</a></p>
               <br/>
 
-              <img class="center-screen" src={Screen1} style={{}} />
+              <img class="center-screen" src={Screen1} style={{width: '80%'}} />
               
               <div style={{margin: '1rem'}} class="buttons">
                 <a href="https://chainlist.org/?testnets=true&search=calibration" target="_blank">
@@ -72,7 +72,7 @@ function App() {
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/>  Go to <a href="https://faucet.calibration.fildev.network/funds.html" target="_blank">Filecoin Faucet</a> to request for some test Filecoins (tFIL)</p>
               <br/>
 
-              <img class="center-screen" src={Screen2} style={{display: 'inline-block'}} />
+              <img class="center-screen" src={Screen2} style={{display: 'inline-block', width: '80%'}} />
 
               <div style={{margin: '1rem'}} class="buttons">
                 
