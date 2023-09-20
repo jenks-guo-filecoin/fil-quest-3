@@ -13,6 +13,7 @@
 
 .center-screen {
     display: inline-block;
+    position: relative;
     margin-left: auto;
     margin-right: auto;
   }
