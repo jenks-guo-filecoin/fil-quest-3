@@ -97,7 +97,7 @@ function App() {
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/> Create a new ERC20 contract</p>
               <br/>
 
-              <img class="center-screen" src={Screen3} style={{display: 'inline-block', height: '100px'}} />
+              <img class="center-screen" src={Screen3} style={{display: 'inline-block', width: '80%'}} />
               <br/>
 
               <p><i class="icon arrow-right" style={{display: 'inline-block', height: 10}}/> Rename the coin to whatever name you like e.g. <a>JenksCoin</a></p>
